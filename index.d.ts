@@ -1,9 +1,12 @@
-import React from "react";
+import React, { ReactNode } from "react";
 import { StatusBarProps } from 'react-native';
 
-export interface StatusBarCustomProps extends StatusBarProps {
+declare interface StatusBarCustomProps extends StatusBarProps {
   colorHelper?: string;
+  children: ReactNode;
   isHelper?: boolean;
 }
 
-export declare const StatusBarCustom: React.FC<StatusBarCustomProps>;
+declare const StatusBarCustom: React.FC<StatusBarCustomProps>;
+
+export default StatusBarCustom;
