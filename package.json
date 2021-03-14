@@ -1,0 +1,43 @@
+{
+  "name": "react-native-custom-statusbar",
+  "version": "1.0.0",
+  "description": "Simple customization for StatusBar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leosantosbh/react-native-custom-statusbar.git"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-statusbar",
+    "custom",
+    "status",
+    "bar",
+    "mobile",
+    "ios",
+    "android",
+    "status",
+    "bar"
+  ],
+  "author": "Leonardo Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leosantosbh/react-native-custom-statusbar/issues"
+  },
+  "dependencies": {
+    "react-native": "2.1.6"
+  },
+  "devDependencies": {
+    "@testing-library/react-native": "7.1.0",
+    "metro-react-native-babel-preset": "0.65.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "homepage": "https://github.com/leosantosbh/react-native-custom-statusbar#readme"
+}
