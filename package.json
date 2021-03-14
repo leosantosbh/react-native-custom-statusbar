@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-statusbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple customization for StatusBar",
   "main": "index.js",
   "scripts": {
