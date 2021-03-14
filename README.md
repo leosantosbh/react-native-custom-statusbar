@@ -13,7 +13,6 @@ A library to help you create StatusBar in react native for iphones(all) and andr
 // in App.js or App.tsx
 
 import React from 'react';
-import { View } from 'react-native';
 import StatusBarCustom from 'react-native-custom-statusbar';
 
 const App: React.FC = () => {
