@@ -3,6 +3,8 @@
 # react-native-custom-statusbar
 A library to help you create StatusBar in react native for iphones(all) and android.
 
+<span style="color: red">WARNING</span> not work in component React Navigation Stack with `headershown`true when it has` routes` with different color of the `StatusBar`
+
 ## Installing ##
 `npm i react-native-custom-statusbar --save`
 
