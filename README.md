@@ -1,9 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-native-custom-statusbar.svg)](https://badge.fury.io/js/react-native-custom-statusbar)
 
 # react-native-custom-statusbar
-A library to help you create StatusBar in react native for iphones(all) and android.
-
-`WARNING:` not work in component React Navigation Stack with `headerShown`= true, when it has routes with different color of the StatusBar
+A library to help you create StatusBar in react native for iphones(all) and android.sBar
 
 ## Installing ##
 `npm i react-native-custom-statusbar --save`
