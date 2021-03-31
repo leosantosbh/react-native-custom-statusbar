@@ -6,7 +6,7 @@ A library to help you create StatusBar in react native for iphones(all) and andr
 ## Installing ##
 `npm i react-native-custom-statusbar --save`
 
-`npm add react-native-custom-statusbar`
+`yarn add react-native-custom-statusbar`
 
 #### Example ####
 ```js
