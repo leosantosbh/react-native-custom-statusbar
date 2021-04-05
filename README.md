@@ -1,7 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-native-custom-statusbar.svg)](https://badge.fury.io/js/react-native-custom-statusbar)
 
 # react-native-custom-statusbar
-A library to help you create StatusBar in react native for iphones(all) and android.sBar
+A library to help you create StatusBar in react native for iphones(all) and android.
 
 ## Installing ##
 `npm i react-native-custom-statusbar --save`
